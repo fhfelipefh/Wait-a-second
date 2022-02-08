@@ -6,7 +6,7 @@ plugins {
 
 group = 'com.fhfelipefh'
 version = '1'
-sourceCompatibility = '11'
+sourceCompatibility = '1.8'
 
 configurations {
     compileOnly {
