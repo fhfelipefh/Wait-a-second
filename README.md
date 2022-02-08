@@ -1,3 +1,3 @@
 # Wait-a-second
 
-An endpoint that, according to user behavior, applies penalties for login.
+a web application made with thymeleaf and spring, can deliver a static web page.
